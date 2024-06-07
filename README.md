@@ -67,5 +67,5 @@ While powerful, the approach used in whimsy comes with specific limitations:
 - [Language Modelling is Compression](https://arxiv.org/pdf/2309.10668)
 - [Text Compression using Large Language Models](https://bellard.org/ts_zip/)
 - [Compression Through Language Modeling](https://nlp.stanford.edu/courses/cs224n/2006/fp/aeldaher-jconnor-1-report.pdf)
-- [llama-zip](https://github.com/AlexBuz/llama-zip)
+- [llama-zip](https://github.com/AlexBuz/llama-zip) 👑
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python)
